@@ -1,0 +1,3 @@
+This project shows how to use Solid in Node js Application...
+
+
